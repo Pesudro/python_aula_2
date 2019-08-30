@@ -2,6 +2,7 @@ import unittest
 
 from exercicios.exercicio_1 import calculo
 
+
 class calculoTeste(unittest.TestCase):
 
     def test_louco(self):
