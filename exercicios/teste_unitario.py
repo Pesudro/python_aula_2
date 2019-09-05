@@ -2,7 +2,8 @@ import unittest
 
 from exercicios.exercicio_1 import calculo
 
-class calculoTeste(unittest.TestCase):
+
+class CalculoTeste(unittest.TestCase):
 
     def test_louco(self):
         calc = calculo()
